@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B5BB4D0F-1247-45C4-A2E7-6C51C14E0DC6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ödev/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Ödev/Controllers/HomeController.cs" Line="21" Column="48" />
+      <File FileName="Ödev/Views/Home/Index.cshtml" Line="7" Column="11" />
+      <File FileName="Ödev/App_Start/RouteConfig.cs" Line="14" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ödev" expanded="True">
+            <Node name="Ödev" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ödev PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ödev.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
