@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Login Page </title>
+    <style>
+        Body {
+            font-family: Calibri, Helvetica, sans-serif;
+            background-color: #e5e5e5;  
+        }
+
+        button {
+            background-color: #ea5455;
+            width: 25%;
+            color: antiquewhite;
+            padding: 15px;
+            margin: 10px 100px;
+            border: none;
+            cursor: pointer;
+        }
+
+        form {
+            border: 5px solid #ea5455;
+        }
+
+        input[type=text], input[type=password] {
+            width: 100%;
+            margin: 5px 0;
+            padding: 10px 15px;
+            display: inline-block;
+            border: 5px solid #ea5455;
+            box-sizing: border-box;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+
+        .container {
+            padding: 18px;
+            background-color: #11698e;
+        }
+    </style>
+</head>
+<body>
+    <center> <h1> Giriş </h1> </center>
+    <form method="post">
+        <div class="container">
+            <label>Kullanıcı Adı : </label>
+            <input type="text" placeholder="Kullanıcı Adı Giriniz" name="username" required>
+            <label>Şifre : </label>
+            <input type="password" placeholder="Şifre Giriniz" name="password" required>
+            <button type="submit">Giriş</button>
+            <input type="checkbox" checked="checked"> Beni Hatırla
+            <button type="submit">Şifremi Unuttum</button>
+            <button type="submit">Üye Ol</button>
+
+
+
+        </div>
+    </form>
+</body>
+</html>

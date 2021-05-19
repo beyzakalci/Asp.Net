@@ -1,0 +1,160 @@
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.exe
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.deps.json
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.json
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.dev.json
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.dll
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.pdb
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.dll
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.csprojAssemblyReference.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfoInputs.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfo.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CoreCompileInputs.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.Manifest.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.xml
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\scopedcss\bundle\LoginWeb.styles.css
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.input.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.output.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorCoreGenerate.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cs
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.dll
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.pdb
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.genruntimeconfig.cache
+C:\Users\gizo2\OneDrive\Masaüstü\LoginWeb\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CopyComplete
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.exe
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.deps.json
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.json
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.dev.json
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.dll
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.pdb
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.dll
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.Manifest.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.xml
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\scopedcss\bundle\LoginWeb.styles.css
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.input.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.output.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorCoreGenerate.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.dll
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.pdb
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.genruntimeconfig.cache
+C:\Users\beyza\Desktop\Yeni klasör\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CopyComplete
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.exe
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.deps.json
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.json
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.dev.json
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.dll
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.pdb
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.dll
+C:\Users\beyza\Desktop\asp\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfo.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.Manifest.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.xml
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\scopedcss\bundle\LoginWeb.styles.css
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.input.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.output.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorCoreGenerate.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cs
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.Views.pdb
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.dll
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\ref\LoginWeb.dll
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.pdb
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.genruntimeconfig.cache
+C:\Users\beyza\Desktop\asp\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CopyComplete
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\appsettings.Development.json
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\appsettings.json
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.exe
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.deps.json
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.json
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.runtimeconfig.dev.json
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.dll
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\ref\LoginWeb.dll
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.pdb
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.dll
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\bin\Debug\net5.0\LoginWeb.Views.pdb
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.csprojAssemblyReference.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfoInputs.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.AssemblyInfo.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CoreCompileInputs.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorAssemblyInfo.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.Manifest.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\staticwebassets\LoginWeb.StaticWebAssets.xml
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\scopedcss\bundle\LoginWeb.styles.css
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.input.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.TagHelpers.output.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorCoreGenerate.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.RazorTargetAssemblyInfo.cs
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.Views.pdb
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.dll
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\ref\LoginWeb.dll
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.pdb
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.genruntimeconfig.cache
+E:\2020-2021\181312060_Beyza_Kalcı\LoginWeb\obj\Debug\net5.0\LoginWeb.csproj.CopyComplete
